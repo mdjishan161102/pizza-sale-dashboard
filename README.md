@@ -40,7 +40,7 @@ powerBI : data visualization
 power Quary : data transformation
 DAX : calculated measures,dynamic vituals and conditional logic
 
-dashboard demo:
+screenshot demo:
 https://github.com/mdjishan161102/pizza-sale-dashboard/blob/main/Pizza_Sales_home_Page.png
 
 
